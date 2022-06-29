@@ -8,4 +8,4 @@
 [x] 'npm start'
 
 ## Interface Bootstrap 5
-[x] cnd bootstrap
+[x] cdn bootstrap
